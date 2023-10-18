@@ -1,0 +1,12 @@
+{
+  "name": "delius-dev/dummy",
+  "description": "Dummy package for vendor reservation",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jan Delius",
+      "email": "jan.delius@delius.dev"
+    }
+  ]
+}
